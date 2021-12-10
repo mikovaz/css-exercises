@@ -1,0 +1,16 @@
+.odd {
+    background-color: rgb(255, 204, 204);
+    font-family: Verdana, sans-serif;
+}
+.size {
+    font-size: 24px;
+}
+#four {
+    background-color: #ccffcc;
+    font-weight: bold;
+    font-size: 24px;
+}
+#numbertwo {
+    color: hsl(240, 100%, 60%);
+    font-size: 36px;
+}
